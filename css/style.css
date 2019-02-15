@@ -20,6 +20,13 @@ nav .brand-logo {
 .nav-wrapper {
 	padding: 0 50px;
 }
+.sidenav {
+	width: 250px;
+}
+
+.sidenav li>a {
+	color: #ef5350;
+}
 
 p {
 	line-height: 2rem;
